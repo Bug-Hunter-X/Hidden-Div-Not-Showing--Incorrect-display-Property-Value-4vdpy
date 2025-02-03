@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in HTML/JavaScript related to showing and hiding elements. The bug involves using an incorrect value for the CSS `display` property when attempting to make a hidden div element visible.  The solution provides the correct way to handle this.
